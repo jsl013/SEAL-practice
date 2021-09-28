@@ -6,5 +6,5 @@ set(CMAKE_CXX_COMPILER "/usr/bin/g++")
 project(SEALDemo VERSION 1.0)
 add_executable(test_ntt test_ntt.cpp)
 
-find_package(SEAL)
+find_package(SEAL 3.7 REQUIRED)
 target_link_libraries(test_ntt SEAL::seal)

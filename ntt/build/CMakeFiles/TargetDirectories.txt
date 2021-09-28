@@ -1,0 +1,3 @@
+/home/ipa/junseo/Research/SEAL-practice/ntt/build/CMakeFiles/rebuild_cache.dir
+/home/ipa/junseo/Research/SEAL-practice/ntt/build/CMakeFiles/edit_cache.dir
+/home/ipa/junseo/Research/SEAL-practice/ntt/build/CMakeFiles/test_ntt.dir

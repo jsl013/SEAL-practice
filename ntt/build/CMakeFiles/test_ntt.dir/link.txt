@@ -1,0 +1,1 @@
+/usr/bin/g++  -O2 -g -DNDEBUG   CMakeFiles/test_ntt.dir/test_ntt.cpp.o  -o test_ntt  /home/ipa/junseo/Research/SEAL/install/lib/libseal-3.7.a -pthread 
