@@ -1,7 +1,7 @@
 
 #include "examples.h"
 
-#include "util/ntt.h"
+#include "seal/util/ntt.h"
 
 using namespace std;
 using namespace seal;
@@ -25,4 +25,11 @@ void performance_test(SEALContext context) {
   RelinKeys relin_keys;
   chrono::microseconds time_diff;
 
+}
+
+int main() {
+
+  // FIXME: fix the function above and call the function
+
+  return 0;
 }
